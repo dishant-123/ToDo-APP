@@ -1,0 +1,20 @@
+1. react native app runs onn both android and ios.
+2. Javascript is used.
+
+3. We can set an css property by creating Style Sheet Component from react native.
+
+4. <ScrooView> is used if we want a scrool option in alist or data.
+
+5. <div> = <view>
+
+6.  <p> = <text> in react native.
+
+7. useState() is a react hooks through we can use state without using classes.(by functions).
+
+8. element like margin-top = marginTop.
+
+9. for printing data we use map inside view or  we can use FlatList component from react native.
+
+10. FlatList not load all the data but it load when we scrool to that point. 
+
+11. 
